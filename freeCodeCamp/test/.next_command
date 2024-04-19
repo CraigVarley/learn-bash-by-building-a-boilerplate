@@ -79,3 +79,4 @@ ls --color=auto --help
 ls --color=auto --all
 pwd
 cd .
+touch background.jpg
