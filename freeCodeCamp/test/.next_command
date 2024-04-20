@@ -117,3 +117,12 @@ rm header.png
 __vsc_prompt_cmd_original
 rm footer.jpeg
 ls --color=auto
+mv lato.font lato.woff
+mv roboto.font roboto.woff
+ls --color=auto
+ls --color=auto
+ls --color=auto
+clear
+ls --color=auto
+cd ..
+ls --color=auto
