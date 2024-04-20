@@ -126,3 +126,7 @@ clear
 ls --color=auto
 cd ..
 ls --color=auto
+git push
+clear
+ls --color=auto
+ls --color=auto
